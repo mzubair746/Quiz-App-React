@@ -1,0 +1,39 @@
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+    
+    position: fixed;
+ 
+ width: 100%;
+ top: 0;
+    
+
+    }
+
+.Left li{
+
+    float:left;
+    padding: 10px;
+
+}
+
+
+
+li a{
+   
+    background-color:aqua;
+    display: block;
+    text-align: center;
+  padding: 14px 16px;
+    color: white;
+
+   
+  
+}
+li a:hover {
+    background-color: #111;
+  }
